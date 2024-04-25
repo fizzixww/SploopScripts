@@ -10,7 +10,7 @@
 // @grant        GM_addStyle
 // @icon         https://i.postimg.cc/XvYrYQKm/ruby.png
 // ==/UserScript==
-
+//must be used with request interceptor json found at https://www.youtube.com/watch?v=iUcZW8Br7us
 //grid off ping on
 
 
